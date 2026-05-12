@@ -1,0 +1,13 @@
+{
+  "name": "remote-jobs-saas",
+  "version": "1.0.0",
+  "description": "SaaS simple para trabajos remotos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
